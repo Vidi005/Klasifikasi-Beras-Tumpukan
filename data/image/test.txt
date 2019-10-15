@@ -1,0 +1,15 @@
+test/Cilamaya/C26.jpg	0
+test/Cilamaya/C27.jpg	0
+test/Cilamaya/C28.jpg	0
+test/Cilamaya/C29.jpg	0
+test/Cilamaya/C30.jpg	0
+test/IR64/I26.jpg	1
+test/IR64/I27.jpg	1
+test/IR64/I28.jpg	1
+test/IR64/I29.jpg	1
+test/IR64/I30.jpg	1
+test/Ketan/I26.jpg	2
+test/Ketan/I27.jpg	2
+test/Ketan/I28.jpg	2
+test/Ketan/I29.jpg	2
+test/Ketan/I30.jpg	2
